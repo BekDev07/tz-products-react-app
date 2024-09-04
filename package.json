@@ -37,7 +37,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "http://bekdev07.github.io/tz-products-react-app",
+  "homepage": "https://bekdev07.github.io/tz-products-react-app",
   "browserslist": {
     "production": [
       ">0.2%",
